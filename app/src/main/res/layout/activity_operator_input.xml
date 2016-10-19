@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_operator_input"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.google.android.gms.samples.vision.ocrreader.com.creditscanner.android.OperatorInputActivity">
+
+    <TextView
+        android:id="@+id/codeLabel"
+        style="@style/TextAppearance.AppCompat.Widget.PopupMenu.Header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:alpha="0.5"
+        android:padding="@dimen/activity_vertical_margin"
+        tools:text="Code: 0723640124612387"/>
+
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:listitem="@layout/operator_list_item"/>
+
+</LinearLayout>

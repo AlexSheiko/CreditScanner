@@ -1,0 +1,7 @@
+#Wed Sep 28 20:47:20 CEST 2016
+base.0=D\:\\CreditScanner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e63a80ea7cf44d74c19c80619798cae6079b558e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\CreditScanner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1d22e1ee4798ebbd133aa40087e1fb25f775a3c9\\classes.dex
+base.1=D\:\\CreditScanner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1d22e1ee4798ebbd133aa40087e1fb25f775a3c9
+file.0=D\:\\CreditScanner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e63a80ea7cf44d74c19c80619798cae6079b558e\\classes.dex

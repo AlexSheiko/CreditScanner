@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\CreditScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_mtn.png",
+        "source": "D:\\CreditScanner\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_mtn.png"
+    },
+    {
+        "merged": "D:\\CreditScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_airtel.png",
+        "source": "D:\\CreditScanner\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_airtel.png"
+    },
+    {
+        "merged": "D:\\CreditScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_glo.png",
+        "source": "D:\\CreditScanner\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_glo.png"
+    },
+    {
+        "merged": "D:\\CreditScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_settings.png",
+        "source": "D:\\CreditScanner\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "D:\\CreditScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_vodafone.png",
+        "source": "D:\\CreditScanner\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_vodafone.png"
+    },
+    {
+        "merged": "D:\\CreditScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_tigo.png",
+        "source": "D:\\CreditScanner\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_tigo.png"
+    }
+]
